@@ -2,6 +2,7 @@
 
 this is a very simple typescript program for our class
 
+![TypeScript Program](./img/Typescript.svg)
 
 ## what this program do ?
 
